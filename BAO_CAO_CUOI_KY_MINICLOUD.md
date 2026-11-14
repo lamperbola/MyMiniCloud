@@ -1,7 +1,7 @@
 # BÁO CÁO ĐỒ ÁN CUỐI KỲ: XÂY DỰNG MÔ PHỎNG HỆ THỐNG MINICLOUD CƠ BẢN (MYMINICLOUD)
 
 - **Học phần:** Điện toán đám mây & Ứng dụng (Cloud Computing)
-- **Sinh viên thực hiện:** Nguyễn Văn A
+- **Sinh viên thực hiện:** Bùi Châu Hải Đăng
 - **Mã số sinh viên (MSSV):** SV001
 - **Kết quả thực hiện:** Hoàn thành **10/10 phần cơ bản** (5.0 điểm) + **10/10 phần mở rộng** (5.0 điểm) = **10.0 / 10.0 điểm tối đa**.
 - **Tệp báo cáo Word:** [BAO_CAO_CUOI_KY_MINICLOUD.docx](file:///d:/cloud/MyMiniCloud/BAO_CAO_CUOI_KY_MINICLOUD.docx)

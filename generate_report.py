@@ -72,7 +72,7 @@ def create_report():
     info_data = [
         ("Học phần:", "Điện toán đám mây & Ứng dụng"),
         ("Đề tài:", "Mô phỏng kiến trúc nền tảng Cloud (MyMiniCloud)"),
-        ("Sinh viên thực hiện:", "Nguyễn Văn A"),
+        ("Sinh viên thực hiện:", "Bùi Châu Hải Đăng"),
         ("Mã số sinh viên (MSSV):", "SV001"),
         ("Kết quả hoàn thành:", "10/10 phần cơ bản (5.0đ) + 10/10 phần mở rộng (5.0đ) = 10.0/10đ")
     ]
@@ -702,7 +702,7 @@ web-frontend-server2                  nginx:stable                           Up 
         
         ("Mở rộng 2 - Backend API /student từ file JSON",
          "curl.exe http://localhost/api/student",
-         '[{"id":1,"name":"Nguyễn Văn An","major":"Khoa học máy tính","gpa":3.45},{"id":2,"name":"Trần Thị Bình","major":"Kỹ thuật phần mềm","gpa":3.72},{"id":3,"name":"Lê Hoàng Cường","major":"Mạng máy tính","gpa":3.1},{"id":4,"name":"Phạm Minh Dũng","major":"Khoa học dữ liệu","gpa":3.58},{"id":5,"name":"Võ Thu Hà","major":"An toàn thông tin","gpa":3.33}]'),
+         '[{"id":1,"name":"Bùi Châu Hải Đăng","major":"Khoa học máy tính","gpa":3.45},{"id":2,"name":"Trần Thị Bình","major":"Kỹ thuật phần mềm","gpa":3.72},{"id":3,"name":"Lê Hoàng Cường","major":"Mạng máy tính","gpa":3.1},{"id":4,"name":"Phạm Minh Dũng","major":"Khoa học dữ liệu","gpa":3.58},{"id":5,"name":"Võ Thu Hà","major":"An toàn thông tin","gpa":3.33}]'),
         
         ("Mở rộng 3 - CSDL studentdb & API /students-db",
          'docker exec relational-database-server mariadb -uroot -proot -e "SELECT * FROM studentdb.students;"\ncurl.exe http://localhost/api/students-db',
